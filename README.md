@@ -1,5 +1,16 @@
 # Dinner-and-a-movie
 
+jenn why are you showing up as guest user
+Dude Idk. My machine is going bonkers. Zoom is barely working at all
+i keep getting kicked out of zoom
+
+Jenn is that you? It was me GriffinNO IT WAS ME JENN
+
+there's a chat apparently
+
+and you can have shared terminals and stuff dang
+Neat
+
 These are the labs for the React, Redux, and React Native classes. 
 
 * [Overview](#Overview)
